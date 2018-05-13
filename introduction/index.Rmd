@@ -127,7 +127,7 @@ Geographers study:
 
 Major analytical traditions in geography: 
 
-* __Social theory__: the applications of frameworks to understand how society is organized, and how people interact within societies
+* __Social theory__: the applications of theoretical frameworks to understand how society is organized, and how people interact within societies
 
 * __Locational and economic analysis__: understanding how economic and commercial decisions shape cities and regions; the study of local and global flows of commerce
 
@@ -167,7 +167,7 @@ class: middle, center, inverse
 
 ## Sports, gender, and sexuality
 
-<img src="https://cdn.theplayerstribune.com/uploads/3c5a04bd-gettyimages-901699534.jpg" style="width: 400px">
+<img src="https://cdn.theplayerstribune.com/uploads/3c5a04bd-gettyimages-901699534.jpg" style="width: 350px">
 
 .footnote[Source: [The Players Tribune](https://www.theplayerstribune.com/en-us/articles/pau-gasol-becky-hammon)]
 

@@ -1,0 +1,230 @@
+---
+title: "Sports, place, & identity"
+subtitle: ""
+date: "May 15, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Introduction to spatial theory
+
+* Territory, place, scale, networks (TPSN)
+
+* Case study: the "South" and SEC football
+
+* Case study: Sports and rural America
+
+---
+
+## Spatial theory
+
+{general info}
+
+---
+
+## The "production of space"
+
+{general info}
+
+---
+
+## _Relational space_
+
+{info from Doreen Massey's book}
+
+---
+class: middle, center, inverse
+
+## Territory, place, scale, networks (TPSN)
+
+---
+
+## The "TPSN" framework
+
+{discuss}
+
+---
+
+## Territory
+
+{discuss the theoretical framework here}
+
+---
+
+## Territory and sport
+
+{example as applied to sports}
+
+---
+
+## Place
+
+{discuss the theoretical framework here}
+
+---
+
+## Place and sport
+
+{example here as applied to sport}
+
+---
+
+## Scale
+
+{discuss the theoretical framework here}
+
+---
+
+## Scale and sport
+
+{example as applied to sport}
+
+---
+
+## Networks
+
+{discuss the theoretical framework}
+
+---
+
+## Networks
+
+{example as applied to sport}
+
+---
+class: middle, center, inverse
+
+## Case study: The "South"
+
+---
+class: middle, center, inverse
+
+## Discuss: what makes the South distinctive?  
+
+---
+
+## Territory and "the South"
+
+{where is the South?  Have students try to identify}
+
+---
+
+## "SEC Country"
+
+{image here of billboard; discuss}
+
+---
+
+## Football and Southern pride
+
+{discuss the Grantland article}
+
+---
+
+## Southern cultural symbols
+
+{discuss the Waffle House article}
+
+---
+
+## The South, football, and US history
+
+{discussion of Confederate flag}
+
+---
+
+## The South, football, and US history
+
+{discussion of Ole Miss mascot; racial integration and football}
+
+---
+class: middle, center, inverse
+
+## Sports and rural America
+
+---
+
+## The "state of hockey"
+
+<iframe width="700" height="525" src="https://www.youtube.com/embed/06SahcgU-Ig?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## "Hoosiers"
+
+{discussion of Indiana/Larry Bird/basketball identity}
+
+---
+
+## Friday Night Lights
+
+{Texas rural football}
+
+---
+
+## Rural population decline in the US
+
+{map here}
+
+---
+
+## Population decline and school closures
+
+{discuss here; chart}
+
+---
+
+## Schools, sports, and rural identity
+
+<iframe width="700" height="525" src="https://www.youtube.com/embed/b24GVsz-4qE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Next up: Sports and nationalism
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Roboto; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Roboto;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

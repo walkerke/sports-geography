@@ -1,0 +1,144 @@
+---
+title: "Sports & nationalism"
+subtitle: ""
+date: "May 16, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Nationalism, nations, and states
+
+* Politics and political economy
+
+* Political economy and sport in the 20th century
+
+* Case study: FC Barcelona and Catalonia
+
+* Case study: Celtic, Rangers, and Northern Ireland
+
+---
+
+## The "nation"
+
+{discuss wrt national political boy}
+
+---
+
+## The "nation" 
+
+{discuss wrt sports}
+
+---
+
+## The "state"
+
+{map and give examples}
+
+---
+
+## The nation-state
+
+{examples/discuss}
+
+---
+
+## The nation-state fallacy
+
+{discuss}
+
+---
+
+## _Imagined communities_
+
+{discuss}
+
+---
+
+## Nationalism and sport
+
+{examples}
+
+---
+
+## Nationalism and sport
+
+{examples}
+
+---
+
+## Political economy
+
+{discuss}
+
+---
+
+## Sport and fascism in Nazi Germany
+
+{discussion}
+
+---
+
+## Sport and the Cold War
+
+{discussion}
+
+---
+
+## Sport and the Cold War
+
+{discussion}
+
+---
+
+
+
+
+class: middle, center, inverse
+
+## Next up: Sports and race
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Roboto; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Roboto;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

@@ -96,7 +96,7 @@ class: middle, center, inverse
 
 * MLB Baseball: https://www.nytimes.com/interactive/2014/04/24/upshot/facebook-baseball-map.html
 
-* NCAA (FBX) football: https://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html
+* NCAA (FBS) football: https://www.nytimes.com/interactive/2014/10/03/upshot/ncaa-football-map.html
 
 ---
 class: middle, center, inverse

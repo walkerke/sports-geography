@@ -23,84 +23,194 @@ options(htmltools.dir.version = FALSE)
 
 * Case study: FC Barcelona and Catalonia
 
-* Case study: Celtic, Rangers, and Northern Ireland
+* Case study: Celtic, Rangers, and the "Old Firm" rivalry
 
 ---
+class: middle, center, inverse
 
-## The "nation"
-
-{discuss wrt national political boy}
+## Nations, states, and identity
 
 ---
 
 ## The "nation" 
 
-{discuss wrt sports}
+<img src="https://www.interiordecorating.com/images/products/1732-17106_z.jpg" style="width: 650px">
+
+.footnote[Source: [InteriorDecorating.com](https://www.interiordecorating.com/429236-1156-Oregon-State-Beaver-Nation-Starter-Rug-20x30)]
 
 ---
 
 ## The "state"
 
-{map and give examples}
+* World atlas example: http://walkerke.github.io/atlas/
 
 ---
 
 ## The nation-state
 
-{examples/discuss}
+<center><img src=img/europe-stateless-nation.gif style="width: 430px;" /></center>
+
+<span class="footnote">Source: [Eurominority](http://www.eurominority.eu/version/maps/map-nations.asp)</span>
 
 ---
-
-## The nation-state fallacy
-
-{discuss}
-
----
+class: middle, center, inverse
 
 ## _Imagined communities_
 
-{discuss}
+---
+
+## National identity and sport
+
+<img src="https://s.hdnux.com/photos/72/46/20/15361035/3/920x920.jpg" style="width: 700px">
+
+.footnote[Source: [Houston Chronicle](https://www.chron.com/sports/dynamo/article/U-S-women-s-soccer-team-caps-two-game-sweep-of-12816531.php)]
 
 ---
 
-## Nationalism and sport
+## Migration, diaspora, and identity
 
-{examples}
-
----
-
-## Nationalism and sport
-
-{examples}
+* Example: Giannis Antetokounmpo in [Toronto](http://www.pappaspost.com/video-torontos-big-fat-greek-welcome-giannis-antetokounmpo/) and [New York City](http://www.nba.com/bucks/video/teams/bucks/2018/02/07/1910910/1517991537992-gagreekmeetnyc-1910910)
 
 ---
+
+## Sport and colonialism
+
+<img src="http://www.thesportsmirror.com/wp-content/uploads/2015/02/CWC2015_Groups1.png" style="width: 600px">
+
+.footnote[Source: [The Sports Mirror](http://www.thesportsmirror.com/2015/02/cricket-world-cup-2015-group-preview-india-and-south-africa-should-be-the-top-two-in-group-b/)]
+
+---
+class: middle, center, inverse
 
 ## Political economy
 
-{discuss}
+---
+
+## Ideology and political economy
+
+Major traditions in the 20th century: 
+
+* Ideology: __liberalism__, __socialism__, __nationalism__
+
+* Political-economic frameworks: __capitalism__, __communism__, __fascism__
 
 ---
 
 ## Sport and fascism in Nazi Germany
 
-{discussion}
+<img src="http://www.abc.net.au/news/image/7648218-3x2-700x467.jpg" style="width: 600px">
+
+.footnote[Source: [ABC.net.au](http://www.abc.net.au/news/2016-07-21/from-hitler-to-superpower-boycotts-threats-to-the-olympics/7649004)]
 
 ---
 
 ## Sport and the Cold War
 
-{discussion}
+<img src="http://originalvintagemovieposters.com/wp-content/uploads/2011/08/Soviet-LB-1024x708.jpg" style="width: 650px">
+
+.footnote[Source: [Boston University](http://blogs.bu.edu/guidedhistory/russia-and-its-empires/ian-blau/)]
 
 ---
 
 ## Sport and the Cold War
 
-{discussion}
+<iframe src="https://abcnews.go.com/video/embed?id=29141374" width="640" height="360" scrolling="no" style="border:none;" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Case study: Catalonia and FC Barcelona
 
 ---
 
+## Catalonia
 
+<img src="img/catalonia.PNG" style="width: 600px">
 
+---
+
+## Economics of Spain 
+
+<img src="https://www.ais-int.com/wp-content/uploads/2012/06/MapaIngresos.gif" style="width: 600px">
+
+.footnote[Source: [AIS Group](https://www.ais-int.com/las-familias-vascas-las-que-mas-dinero-ingresan-en-espana/)]
+
+---
+
+## FC Barcelona
+
+<img src="https://www.barcelonas.com/images/256xNxfc-barcelona-club-crest.jpg.pagespeed.ic.4HCUasoj2M.jpg" style="width: 450px">
+
+.footnote[Source: [barcelonas.com](https://www.barcelonas.com/fc-barcelona-logo.html)]
+
+---
+
+## General Franco and Real Madrids
+
+<img src="http://www.panenka.org/wp-content/uploads/2015/11/altgnb-751x500.jpg" style="width: 600px">
+
+.footnote[Source: [panenka.org](http://www.panenka.org/miradas/cuatro-decadas-de-futbol-sin-franco/)]
+
+---
+
+## Barcelona: _mes que un club_
+
+<iframe src="https://embed.theguardian.com/embed/video/football/video/2012/nov/22/fc-barcelona-catalonia-independence-video" width="700" height="525" frameborder="0" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Discussion: FC Barcelona and Catalan independence
+
+---
+class: middle, center, inverse
+
+## Case study: The Old Firm
+
+---
+
+## Glasgow
+
+<img src="img/glasgow.jpg" style="width: 600px">
+
+.footnote[Source: [Evening Times](http://www.eveningtimes.co.uk/news/15701821.Families_wanted_to_breathe_new_life_into_Glasgow_city_centre_expansion_plans/)]
+
+---
+
+## Religion in Northern Ireland
+
+<img src=img/ni-religion.jpg style="width: 650px" />
+
+<span class="footnote">Source: [New Maps of Ulster](http://newmapsofulster.blogspot.com/2013_02_01_archive.html)</span>
+
+---
+
+## The "Troubles"
+
+<img src="https://www.commentarymagazine.com/wp-content/uploads/2017/07/northern-ireland.jpg" style="width: 750px">
+
+.footnote[Source: [Commentary Magazine](https://www.commentarymagazine.com/foreign-policy/europe/northern-ireland-troubles-revisited/)]
+
+---
+
+## Nationalism and the Old Firm
+
+<img src=img/celtic-rangers.jpg style="width: 700px" />
+
+<span class="footnote">Source: [BBC](http://www.bbc.co.uk/news/uk-scotland-13438080)</span>
+
+---
+
+## Glasgow and the Old Firm
+
+<iframe width="700" height="500" src="https://www.youtube.com/embed/cggTbCcbcNA?rel=0&amp;start=142" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Discussion: religion, politics, networks, & sport
+
+---
 
 class: middle, center, inverse
 
@@ -117,12 +227,12 @@ class: middle, center, inverse
 <style>
 
 body {
-  font-family: Roboto; 
+  font-family: Verdana; 
 }
 
 h1, h2, h3 {
   color: #840000; 
-  font-family: Roboto;
+  font-family: Verdana;
   font-weight: bold; 
 }
 

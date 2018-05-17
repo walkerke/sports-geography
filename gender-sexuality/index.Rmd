@@ -1,0 +1,74 @@
+---
+title: "Sports, gender, & sexuality"
+subtitle: ""
+date: "May 18, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Sex and gender
+
+* Feminist and queer theory
+
+* Masculinity, femininity, and sport
+
+* Case study: Womens' professional sports in the US
+
+* Case study: Women and sporting events in the Middle East
+
+---
+class: middle, center, inverse
+
+## Sex and gender
+
+---
+
+class: middle, center, inverse
+
+## Next up: The economics & sociology of mega-events
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

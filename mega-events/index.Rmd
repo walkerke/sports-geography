@@ -1,5 +1,5 @@
 ---
-title: "The economics &c sociology of mega-events"
+title: "The economics & sociology of mega-events"
 subtitle: ""
 date: "May 21, 2018"
 author: "GEOG 30793"

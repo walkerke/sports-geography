@@ -1,0 +1,260 @@
+---
+title: "The economics &c sociology of mega-events"
+subtitle: ""
+date: "May 21, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* The geography of mega-events
+
+* Case study: The 2004 Athens Olympics 
+
+* Case study: The 2016 Rio de Janeiro Olympics
+
+* Case study: The 2022 Qatar Men's World Cup
+
+---
+class: middle, center, inverse
+
+## The geography of mega-events
+
+---
+
+## The history of the Olympics
+
+<img src="https://cdn.britannica.com/61/18361-004-7E921481.jpg" style="width: 650px">
+
+.footnote[Source: [Britannica](https://www.britannica.com/event/Athens-1896-Olympic-Games)]
+
+---
+
+## Olympic host cities
+
+* [Map: history of Olympic host cities](http://storymaps.esri.com/stories/olympicvenues/)
+
+---
+
+## The history of the World Cup
+
+<img src="http://img.fifa.com/mm/photo/tournament/competition/02/75/74/47/2757447_full-lnd.jpg" style="width: 750px">
+
+.footnote[Source: [FIFA.com](http://www.fifa.com/worldcup/archive/uruguay1930/index.html)]
+
+---
+
+## World Cup host countries
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/World_cup_hosts.png" style="width: 800px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+class: middle, center, inverse
+
+## Case study: The 2004 Athens Olympics
+
+---
+
+## The Athens Olympics
+
+<img src="https://cdnolympic.files.wordpress.com/2011/08/2004.png" style="width: 350px">
+
+.footnote[Source: [Olympic.ca](https://olympic.ca/games/2004-athens/)]
+
+---
+
+
+## The 2008-09 recession and Greece
+
+<img src="https://cdn.static-economist.com/sites/default/files/images/2015/02/blogs/graphic-detail/20150214_gdc778.png" style="width: 500px">
+
+.footnote[Source: [The Economist](https://www.economist.com/graphic-detail/2015/03/04/the-agony-of-greece)]
+
+---
+
+## The aftermath of the Olympics
+
+<img src=img/olympics.jpeg style="width: 700px" />
+
+<span class="footnote">Source: [The Guardian](http://www.theguardian.com/sport/gallery/2014/aug/13/abandoned-athens-olympic-2004-venues-10-years-on-in-pictures#img-1)</span>
+
+---
+
+## Politics in Greece
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOW0gItB2tE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Discussion: costs and benefits of the 2004 Athens Olympics
+
+---
+
+class: middle, center, inverse
+
+## Case study: The 2016 Rio de Janeiro Olympics
+
+---
+
+## The 2016 Summer Olympics
+
+<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/Games/Summer/Rio_2016/2016-09-06-slider-rio-2016-games.jpg" style="width: 750px">
+
+.footnote[Source: [olympic.org](https://www.olympic.org/rio-2016)]
+
+---
+
+## Inequality in Rio de Janeiro
+
+<img src=img/ipanema.png style="width: 700px" />
+
+---
+
+## Race in Rio de Janeiro
+
+* [The Brazilian Racial Dot Map](http://patadata.org/maparacial/en.html)
+
+---
+
+## The cost of the Rio Olympics
+
+<iframe src="https://www.cbsnews.com/videos/are-costs-of-the-olympics-worth-it-for-host-cities/" id="cbsNewsVideo" frameborder="0" width="750" height="500"></iframe> 
+
+---
+
+## Olympic infrastructure 
+
+<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/News/2017/08/15/2017-08-15-transport-rio-2016-thumbnail.jpg" style="width: 650px">
+
+.footnote[Source: [olympic.org](https://www.olympic.org/news/olympic-games-transport-rio-to-a-new-level)]
+
+---
+
+## Olympic infrastructure
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/YHguBnA4UM4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## The Olympics and the _favelas_
+
+<iframe width='750' height='500' scrolling='no' src='https://www.washingtonpost.com/video/c/embed/dabedf24-584a-11e6-8b48-0cb344221131' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
+class: middle, center, inverse
+
+## Case study: The 2022 Qatar World Cup
+
+---
+
+## The 2022 World Cup
+
+<center><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Qatar_2022_bid_logo.svg/518px-Qatar_2022_bid_logo.svg.png" style="width: 300px"></center>
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## FIFA
+
+<img src="http://theconsul.org/wp-content/uploads/2015/11/FIFA_Corruption_8_545x800.jpg" style="width: 600px">
+
+.footnote[Source: [The Consul](http://theconsul.org/2015/11/when-a-huge-corruption-takes-place-in-a-huge-nonprofit-organization-the-2015-fifa-corruption-scandal/)]
+
+---
+
+## Stadium construction in Doha
+
+<img src="http://www.arabnews.com/sites/default/files/2017/07/15/951431-818509720.jpg" style="width: 700px">
+
+.footnote[Source: [Arab News](http://www.arabnews.com/node/1129671/middle-east)]
+
+---
+
+## World Cup infrastructure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n5I4FjAK6u0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Migration to Southwest Asia
+
+* [Migration statistics from the Pew Research Center](http://www.pewsocialtrends.org/2013/12/17/migration-tables/)
+
+* [Origins of migrants in the region](http://peoplemov.in)
+
+
+<!-- * Basic stats about the extensive migrant populations in this realm; how they are building everything (under auspicious circumstances) -->
+
+---
+
+## Population pyramid of Qatar
+
+<iframe src="qatar.html" frameborder="0" seamless scrolling="no" height="550" width="1000"></iframe>
+
+---
+
+## Labor migration and the World Cup
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OjqQLVRZyyw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Discussion: human rights and the World Cup in Qatar
+
+---
+
+class: middle, center, inverse
+
+## Next up: Sports & urban development
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

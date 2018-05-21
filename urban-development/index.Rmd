@@ -1,0 +1,239 @@
+---
+title: "Sports & urban development"
+subtitle: ""
+date: "May 22, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Urban economic development
+
+* Costs and benefits of public funding for sports stadiums
+
+* Case study: Sports stadiums and urban entertainment districts
+
+* Location intelligence and location analytics
+
+* Case study: Sports stadium locations: successes and failures
+
+---
+class: middle, center, inverse
+
+## Urban economic development
+
+---
+
+## Urban areas: key terms
+
+{introduction/discussion}
+
+---
+
+## Urban economies 
+
+{discuss}
+
+---
+
+## Urban economics
+
+{discuss the field/theoretical frameworks}
+
+---
+
+## Economic development and public subsidy
+
+{discussion/examples}
+
+---
+class: middle, center, inverse
+
+## Public funding of sports stadiums: costs and benefits
+
+---
+
+## Public funding of sports stadiums
+
+{examples}
+
+---
+
+## Public funding of sports stadiums
+
+{examples}
+
+---
+class: middle, center, inverse
+
+## Stadiums and jobs
+
+{chart/examples}
+
+---
+
+## Stadiums and tourism
+
+{chart/examples/discussion}
+
+---
+
+## The "sports economy"
+
+{discussion/examples}
+
+---
+class: middle, center, inverse
+
+## Case study: sports and urban entertainment districts
+
+---
+
+## Texas Live!
+
+{image/examples/video}
+
+---
+
+## Los Angeles Stadium at Hollywood Park
+
+{image/examples/video}
+
+---
+
+## Los Angeles Stadium at Hollywood Park
+
+{image/examples/video}
+
+---
+
+## Stadiums as growth stimulus
+
+{example/discussion}
+
+---
+class: middle, center, inverse
+
+## Location intelligence and location analytics
+
+---
+
+## Location analytics
+
+{discussion of the field}
+
+---
+
+## Applications of location analytics
+
+{examples}
+
+---
+
+## Applications of location analytics
+
+{video from Buxton or somewhere else}
+
+---
+
+## Methods in location analytics
+
+{isochrones/buffers}
+
+---
+
+## Data in location analytics
+
+{data repositories}
+
+---
+class: middle, center, inverse
+
+## Case study: sports stadium locations
+
+---
+
+## MLS: Providence Park
+
+{image/discussion/examples}
+
+---
+
+## MLS: Toyota Stadium
+
+{image/discussion/examples}
+
+---
+
+## MLB: Target Field
+
+{image/discussion/examples}
+
+---
+
+## MLB: SunTrust Park
+
+{image/discussion/examples}
+
+---
+
+## NBA arenas: "back to the city"
+
+{discussion of the Kings and the Pistons; a video?}
+
+---
+
+class: middle, center, inverse
+
+## Discussion: what makes a good stadium location?  
+
+---
+
+class: middle, center, inverse
+
+## Next up: Sports, business, & globalization
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

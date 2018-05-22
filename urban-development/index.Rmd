@@ -15,7 +15,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Today's agenda
 
-* Urban economic development
+* Urban economics
 
 * Costs and benefits of public funding for sports stadiums
 
@@ -23,38 +23,54 @@ options(htmltools.dir.version = FALSE)
 
 * Location intelligence and location analytics
 
-* Case study: Sports stadium locations: successes and failures
+* Case study: Sports stadium locations
 
 ---
 class: middle, center, inverse
 
-## Urban economic development
+## Urban economics
 
 ---
+class: middle, center, inverse
 
-## Urban areas: key terms
-
-{introduction/discussion}
+## Urban areas: general geography
 
 ---
 
 ## Urban economies 
 
-{discuss}
+Key concepts: 
+
+* Agglomeration economies
+
+* Economies of scale and density
+
+* Human capital externalities
 
 ---
 
-## Urban economics
+## Agglomeration economies
 
-{discuss the field/theoretical frameworks}
+<img src="https://i1.wp.com/transportgeography.org/wp-content/uploads/agglomeration_economies.png" style="width: 475px">
+
+.footnote[Source: [Jean-Paul Rodrigue, TransportGeography.org](https://transportgeography.org/?page_id=1559)]
 
 ---
 
 ## Economic development and public subsidy
 
-{discussion/examples}
+Example: Amazon's HQ2
+
+* [Possible locations for Amazon - CNN](http://money.cnn.com/2018/01/19/technology/business/amazon-hq2-reax/index.html)
+* [Is it worth it for cities? - Fortune](http://fortune.com/2017/10/19/amazon-hq2-tax-breaks/)
 
 ---
+class: middle, center, inverse
+
+## Discussion: why would a city want a sports franchise?  
+
+---
+
 class: middle, center, inverse
 
 ## Public funding of sports stadiums: costs and benefits
@@ -63,32 +79,22 @@ class: middle, center, inverse
 
 ## Public funding of sports stadiums
 
-{examples}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Bank_Stadium_-_West_Facade.jpg/1200px-US_Bank_Stadium_-_West_Facade.jpg" style="width: 550px">
+
+.footnote[Source: Wikimedia Commons]
 
 ---
 
-## Public funding of sports stadiums
+## Public vs. private funding
 
-{examples}
+<img src="https://amp.businessinsider.com/images/575f002c9105841c008c895d-320-515.png" style="width: 300px">
+
+.footnote[Source: [Business Insider](http://www.businessinsider.com/who-pays-for-nfl-stadiums-2016-6)]
 
 ---
 class: middle, center, inverse
 
-## Stadiums and jobs
-
-{chart/examples}
-
----
-
-## Stadiums and tourism
-
-{chart/examples/discussion}
-
----
-
-## The "sports economy"
-
-{discussion/examples}
+## Discussion: sports stadiums and the "sports economy"
 
 ---
 class: middle, center, inverse
@@ -99,25 +105,29 @@ class: middle, center, inverse
 
 ## Texas Live!
 
-{image/examples/video}
+<img src="http://texas-live.com/wp-content/uploads/2016/09/TL_MasterAerial_Final.jpg" style="width: 700px">
+
+.footnote[Source: [Texas Live](http://texas-live.com/)]
 
 ---
 
 ## Los Angeles Stadium at Hollywood Park
 
-{image/examples/video}
+<img src="http://www.lased.com/images/renderings/9.jpg" style="width: 700px">
+
+.footnote[Source: [lased.com](http://www.lased.com/)]
 
 ---
 
 ## Los Angeles Stadium at Hollywood Park
 
-{image/examples/video}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_MsqkGIw8M?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
-## Stadiums as growth stimulus
+## Stadiums, economic growth, and gentrification
 
-{example/discussion}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PChltqsoveI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 class: middle, center, inverse
@@ -126,33 +136,34 @@ class: middle, center, inverse
 
 ---
 
-## Location analytics
+## Applications of location analytics
 
-{discussion of the field}
+<img src="https://carto.com/blog/img/posts/2017/2017-05-15-really-good-guide-location-intelligence-implementation/location-intelligence-header.ada251ea.png" style="width: 650px">
+
+.footnote[Source: [CARTO](https://carto.com/blog/really-good-guide-location-intelligence-implementation/)]
 
 ---
 
 ## Applications of location analytics
 
-{examples}
+Examples: 
 
----
-
-## Applications of location analytics
-
-{video from Buxton or somewhere else}
+* [Buxton: analytics platform](https://www.buxtonco.com/learn/buxton-analytics-platform)
+* [Buxton: Firehouse Subs case study](https://www.buxtonco.com/learn/firehouse-subs-optimizes-market-planning-with-buxtons-scout-tool)
 
 ---
 
 ## Methods in location analytics
 
-{isochrones/buffers}
+<img src=img/isochrone.png style="width: 500px">
 
 ---
 
 ## Data in location analytics
 
-{data repositories}
+<img src="img/tapestry.PNG" style="width: 600px">
+
+.footnote[Source: [Esri Tapestry segmentation]()]
 
 ---
 class: middle, center, inverse
@@ -161,33 +172,56 @@ class: middle, center, inverse
 
 ---
 
+## MLS attendance
+
+<img src=img/rankings.png style="width: 600px">
+
+.footnote[Source: Wikipedia]
+
+---
+
 ## MLS: Providence Park
 
-{image/discussion/examples}
+<img src="https://portland-mp7static.mlsdigital.net/styles/image_landscape/s3/images/Timbers.vsHouston062015.CM108.jpg" style="width: 700px">
+
+.footnote[Source: [timbers.com](https://www.timbers.com/post/2016/07/07/portland-timbers-job-fair-providence-park-july-15-2016)]
 
 ---
 
 ## MLS: Toyota Stadium
 
-{image/discussion/examples}
+<img src="https://sportsdaydfw.imgix.net/1448848803-NS_29fcd34AJ.jpg" style="width: 675px">
+
+.footnote[Source: [dallasnews.com](https://sportsday.dallasnews.com/soccer/soccer/2016/08/27/fc-dallas-attendance-debate-resurfaces)]
+
+---
+class: middle, center, inverse
+
+## Analysis: soccer stadiums in Business Analyst Online
 
 ---
 
 ## MLB: Target Field
 
-{image/discussion/examples}
+<img src="https://www.ballparksofbaseball.com/wp-content/uploads/2016/03/target_topv2.jpg" style="width: 800px">
+
+.footnote[Source: [ballparksofbaseball.com](https://www.ballparksofbaseball.com/ballparks/target-field/)]
 
 ---
 
 ## MLB: SunTrust Park
 
-{image/discussion/examples}
+<img src="https://www.ballparksofbaseball.com/wp-content/uploads/2016/04/suntrust17960.jpg" style="width: 650px">
+
+.footnote[Source: [ballparksofbaseball.com](https://www.ballparksofbaseball.com/ballparks/suntrust-park/)]
 
 ---
 
-## NBA arenas: "back to the city"
+## Team location and branding
 
-{discussion of the Kings and the Pistons; a video?}
+* [Example: Brooklyn Nets' move from New Jersey](https://www.cnbc.com/video/2012/04/30/nets-ceo-explains-move-to-brooklyn.html)
+
+* Other urban NBA moves: Kings, Pistons, Warriors
 
 ---
 

@@ -1,0 +1,213 @@
+---
+title: "Cities, recreational space, and leisure activities"
+subtitle: ""
+date: "May 25, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Economic inequality in cities
+
+* Recreation and leisure
+
+* Case study: recreation, obesity, and economic inequality
+
+* Youth sports
+
+* Case study: economic inequality and youth sports participation
+
+---
+class: middle, center, inverse
+
+## Economic inequality in cities
+
+---
+
+## Economic inequality in cities
+
+{general definitions}
+
+---
+
+## Economic segregation 
+
+{discussion/examples}
+
+---
+
+## Economic segregation
+
+{discussion/examples}
+
+---
+class: middle, center, inverse
+
+## Recreation and leisure
+
+---
+
+## Recreation in the United States
+
+{statistics}
+
+---
+
+## Sports as leisure activity
+
+{statistics/discussion}
+
+---
+
+## Exercise in the United States
+
+{discussion}
+
+---
+
+## Geographies of obesity
+
+{maps/discussion}
+
+---
+
+## Geographies of heart disease
+
+{maps/discussion}
+
+---
+class: middle, center, inverse
+
+## Case study: recreation, obesity, and social inequality
+
+---
+
+## SoulCycle
+
+{image/discussion}
+
+---
+
+## Strava activity
+
+{discuss the map}
+
+---
+
+## Recreation in poor neighborhoods
+
+{find a good video here}
+
+---
+class: middle, center, inverse
+
+## Discussion: the linked geography of wealth and health inequality
+
+---
+class: middle, center, inverse
+
+## Youth sports
+
+---
+
+## Youth sports
+
+{introductory slide; prompt for discussion}
+
+---
+
+## Youth sports
+
+{statistics}
+
+---
+
+## The geography of youth sports
+
+{get some information about varied participation by area}
+
+---
+class: middle, center, inverse
+
+## Case study: economic inequality and youth sports
+
+---
+
+## The cost of youth sports
+
+{discussion}
+
+---
+
+## The cost of youth sports
+
+{additional example}
+
+---
+
+## Youth sports and social inequality
+
+{perhaps a video}
+
+---
+
+## Youth sports programs: MLB
+
+{discuss the urban baseball program}
+
+---
+
+## Youth sports programs: other example
+
+{find another example}
+
+
+---
+class: middle, center, inverse
+
+## Next up: Sports analytics I
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

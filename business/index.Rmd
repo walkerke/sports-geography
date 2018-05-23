@@ -1,0 +1,286 @@
+---
+title: "Sports, business, & globalization"
+subtitle: ""
+date: "May 24, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Overview: sports business
+
+* Sports branding, marketing, & geography
+
+* Case study: "Black and Yellow"
+
+* Geographies of globalization and sport
+
+* Case study: China and the Houston Rockets
+
+* Case study: The international appeal of Manchester United
+
+---
+class: middle, center, inverse
+
+## Sports business
+
+---
+
+## Sports business
+
+<img src="https://www.marketingcharts.com/wp-content/uploads/2014/10/PwC-North-American-Sports-Market-Forecast-2013-2018-Oct2014.png" style="width: 700px">
+
+.footnote[Source: [MarketingCharts.com](https://www.marketingcharts.com/wp-content/uploads/2014/10/PwC-North-American-Sports-Market-Forecast-2013-2018-Oct2014.png)]
+
+---
+
+## Sports business
+
+<img src="http://infographic.statista.com/normal/chartoftheday_10253_the_world_s_most_valuable_sports_teams_n.jpg" style="width: 650px">
+
+.footnote[Source: [Statista.com](https://www.statista.com/chart/10253/the-worlds-most-valuable-sports-teams/)]
+
+---
+class: middle, center, inverse
+
+## Sports marketing
+
+---
+
+## Sports marketing
+
+Includes: 
+
+* Marketing _the competition itself_ (e.g. games, events)
+
+* Marketing _products by way of the sports entity_ (e.g. endorsements, branding)
+
+* Concept: _geographic personality_
+
+---
+
+## Sports marketing and geography
+
+<img src="http://stmedia.stimg.co/ctyp_TwinsTerritory.jpg?w=800">
+
+.footnote[Source: [CityPages](http://www.citypages.com/news/twins-territory-stretches-into-wisconsin-according-to-baseball-fandom-map-6537215)]
+
+---
+
+## Sports marketing and geography
+
+<img src="http://images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages%2f_2750000%2fff_2750056_full.jpg" style="width: 300px">
+
+.footnote[Source: [gofrogs.com](http://shop.gofrogs.com/COLLEGE_TCU_Horned_Frogs_Auto_Accessories/TCU_Horned_Frogs_State_Shape_Keychain)]
+
+---
+class: middle, center, inverse
+
+## Case study: sports branding and place identity in Pittsburgh
+
+---
+
+## Pittsburgh: "Black and Yellow"
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Pittsburgh%2C_Pennsylvania.svg/2000px-Flag_of_Pittsburgh%2C_Pennsylvania.svg.png" style="width: 600px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## "Blue Collar Team In A City Of Champions"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4BQ4IVApd70?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Manufacturing jobs in Pittsburgh
+
+<img src=img/manufacturing.PNG style="width: 700px">
+
+.footnote[Source: BLS.gov]
+
+---
+
+## Professional services jobs in Pittsburgh
+
+<img src=img/professional.PNG style="width: 700px">
+
+.footnote[Source: BLS.gov]
+
+
+---
+
+## "Black and Yellow"
+
+<img src="http://www.post-gazette.com/image/2017/02/22/1140x_q90_a10-7_cTC_ca91,70,1868,1060/20170222-SprintAd01.jpg" style="width: 600px">
+
+.footnote[Source: [Pittsburgh Post-Gazette](http://www.post-gazette.com/local/city/2018/01/25/Pittsburgh-zoning-remove-Sprint-banner-atop-Mount-Washington-lamar/stories/201801250177)]
+
+---
+
+## "Black and Yellow"
+
+<img src="https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fimages%2Fpittsburgh-steelers-Black-Gold-Pierogies.jpg" style="width: 350px">
+
+.footnote[Source: [Sports Illustrated](https://www.si.com/extra-mustard/2014/09/04/pittsburgh-steelers-mrs-t-black-gold-pierogies)]
+
+---
+class: middle, center, inverse
+
+## Geographies of globalization and sport
+
+---
+
+## Globalization
+
+<img src="http://www.komputerswiat.pl/media/2017/179/5564344/facebook-2-mld-p.jpg" style="width: 800px">
+
+.footnote[Source: Facebook]
+
+---
+
+## Globalization in geography 
+
+Theoretical concepts: 
+
+* _World systems theory_
+
+* _Time-space compression_
+
+* _De-territorialization_ and _re-territorialization_
+
+
+---
+
+## Globalization and business
+
+<img src="https://www.uschamber.com/sites/default/files/styles/article_gallery/public/022869_globalsupplyboeing.jpg" style="width: 650px">
+
+.footnote[Source: [US Chamber of Commerce](https://www.uschamber.com/series/above-the-fold/global-supply-chains-explained-one-graphic)]
+
+---
+
+## Globalization and sports
+
+<img src="https://usathoopshype.files.wordpress.com/2017/12/gettyimages-866650118.jpg" style="width: 650px">
+
+.footnote[Source: [HoopsHype.com](https://hoopshype.com/2017/12/26/philadelphia-76ers-ben-simmons-joel-embiid-injury-teammate-on-off/)]
+
+---
+
+## Global fame and athletes
+
+* [ESPN Magazine World Fame 100](http://www.espn.com/espn/feature/story/_/page/WorldFame/espn-world-fame-100-2018)
+
+---
+class: middle, center, inverse
+
+## Case study: China and the Houston Rockets
+
+---
+
+## Yao Ming
+
+<img src="https://images0.minutemediacdn.com/production/912x516/58643d4059c8d33be5000001.jpeg" style="width: 700px">
+
+.footnote[Source: [12up.com](https://www.12up.com/posts/4332625-rockets-announce-date-they-ll-retire-yao-ming-s-number)]
+
+---
+
+## The Rockets and China
+
+<img src="https://cdn.nba.net/nba-drupal-prod/styles/landscape_2090w/s3/2016-10/fear%20the%20beard.jpg" style="width: 600px">
+
+.footnote[Source: [NBA.com](http://www.nba.com/article/2016/10/09/houston-rockets-chinas-team)]
+
+---
+
+## The Rockets, China, and branding
+
+<img src="https://cbshouston.files.wordpress.com/2015/02/464282628.jpg" style="width: 600px">
+
+.footnote[Source: [CBSHouston.com](http://houston.cbslocal.com/2015/02/24/rockets-and-harden-looking-ahead-to-clippers-not-mvp-race/)]
+
+---
+class: middle, center, inverse
+
+## Case study: the international appeal of Manchester United 
+
+---
+
+## Manchester United: a global brand
+
+<img src=img/manu1.gif style="width: 650px">
+
+.footnote[Source: [ManUtd.com](http://www.manutd.com/en/Fanzone/Local-Supporters-Clubs.aspx)]
+
+---
+
+## Premier League support around the world
+
+* [Interactive map of Premier League Twitter followers](https://interactive.twitter.com/premierleague/#?mode=team&teamId=all)
+
+---
+
+## Manchester United in China
+
+<img src="http://www.cityam.com/assets/uploads/content/2016/01/european-football-clubs-popularity-in-china-social-media-followers-chartbuilder-56aa1b8ea038e.png" style="width: 700px">
+
+.footnote[Source: [CityAM.com](http://www.cityam.com/233328/bayern-munich-beat-manchester-united-and-barcelona-in-social-media-race-to-win-over-chinese-football-fans)]
+
+---
+
+## Manchester United in China
+
+* [Video: Manchester United's popularity in China](https://www.cnbc.com/2016/03/24/english-premier-league-member-manchester-united-targets-china-after-tough-season.html)
+
+---
+class: middle, center, inverse
+
+## Next up: Cities, recreational space, and leisure activities
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

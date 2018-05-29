@@ -1,0 +1,264 @@
+---
+title: "Data visualization and sports data journalism"
+subtitle: ""
+date: "May 31, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Data visualization: core principles
+
+* Data visualization in sport
+
+* Data visualization: best practices
+
+* Examples: interactive visualization applications for sports
+
+* Data journalism and sport
+
+* Examples: data visualization and sports data journalism
+
+---
+class: middle, center, inverse
+
+## Data visualization
+
+---
+
+## Data visualization
+
+> The greatest value of a picture is when it forces us to notice what we never expected to see.  
+
+* Tukey (1977) quoted in Yau (2013)
+
+---
+
+## Data visualization
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg" style="width: 750px"><figcaption>Source: Wikimedia Commons</figcaption>
+
+---
+
+## Bar charts
+
+<img src="https://espnfivethirtyeight.files.wordpress.com/2015/02/hickey-datalab-snl-4.png?w=610&h=478" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/datalab/who-really-had-the-best-movie-career-after-snl/)</figcaption>
+
+---
+
+## Bar charts
+
+* __Length__ or __height__ of bars proportional to data values, allowing for comparisons between categories
+* The value axis of bar charts _must start at zero_!!!
+* Recommendation: sort your data values for ease of interpretation
+
+---
+
+## Line charts
+
+<img src="https://espnfivethirtyeight.files.wordpress.com/2014/10/casselman-feature-dropout-2.png?w=610&h=475" style="width: 700px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/u-s-high-school-dropout-rates-fall-especially-among-latinos/)</figcaption>
+
+---
+
+## Scatter plots
+
+<img src="https://espnfivethirtyeight.files.wordpress.com/2014/11/morris-feature-moss-wowy1.png?w=610&h=626" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/randy-moss-may-well-have-been-the-greatest-receiver-of-all-time/)</figcaption>
+
+---
+class: middle, center, inverse
+
+## Data visualization in sports
+
+---
+
+## Example 1
+
+{give example}
+
+---
+
+## Example 2
+
+{give example}
+
+---
+
+## Example 3
+
+{give example}
+
+---
+class: middle, center, inverse
+
+## Data visualization best practices
+
+---
+
+## Visual variables
+
+<img src=img/vv.png style="width: 900px"><figcaption>Source: _Data Points_</figcaption>
+
+
+---
+
+## Color
+
+* Hue: color, commonly understood (red, blue, green)
+* Lightness or Value: extent to which color is light or dark
+* Saturation: vividness of the color
+
+<img src="https://dl.dropboxusercontent.com/u/128822645/introgis/cartography/assets/img/color1.png" style="width: 400px">
+
+---
+
+## Color and data visualization
+
+<img src=img/schemes.png><figcaption>Source: _Data Points_</figcaption>
+
+---
+
+## Color and sports data visualization
+
+{example}
+
+---
+
+## Color-blindness
+
+<img src="https://pbs.twimg.com/media/BaSY069CYAAlHXY.jpg" style="width: 700px"><figcaption>SBNation.com</figcaption>
+
+---
+
+## Static vs. interactive graphics
+
+* Interactive visualization: User is an _active participant_ rather than a _passive observer_
+
+* Key points to consider: 
+    * What are you visualizing? 
+    * What is the purpose of your visualization? 
+    * Who is your audience? 
+    * In what format and venue will you be presenting the visualization?  
+
+---
+
+## Benefits and drawbacks of interactivity
+
+{discuss}
+
+---
+class: middle, center, inverse
+
+## Examples: interactive sports data visualization
+
+---
+
+## Example 1
+
+{example}
+
+---
+
+## Example 2
+
+{example}
+
+---
+class: middle, center, inverse
+
+## Data journalism and sport
+
+---
+
+## Data journalism
+
+{examples}
+
+---
+
+## Data journalism and sport
+
+{examples}
+
+---
+
+## Data journalism and sport
+
+{more examples}
+
+---
+
+## Data journalism and sport
+
+{perhaps a video if you can find one}
+
+---
+class: middle, center, inverse
+
+## Data visualization and sports data journalism
+
+---
+
+## Example 1
+
+{example 1}
+
+---
+
+## Example 2
+
+{example 2}
+
+---
+class: middle, center, inverse
+
+## Discussion: the value of data visualization in journalism
+
+---
+
+## Next up
+
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

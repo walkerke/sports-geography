@@ -1,0 +1,308 @@
+---
+title: "Sports analytics I"
+subtitle: ""
+date: "May 29, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* Data analytics: an overview
+
+* Sports analytics: an emerging field
+
+* Case study: sabermetrics and baseball
+
+* Probability and statistics
+
+* Case study: probability and football
+
+---
+class: middle, center, inverse
+
+## Data analytics
+
+---
+
+## What is data? 
+
+<img src="http://40.media.tumblr.com/3d0477bad4077debabcdbf29a2df3670/tumblr_n6cjvqfzgr1td9006o1_1280.jpg" style="width: 850px"><figcaption>Source: [bigdatapix.tumblr.com](http://bigdatapix.tumblr.com/)</figcaption>
+
+
+---
+
+## The data analysis process
+
+<img src="http://r4ds.had.co.nz/diagrams/data-science.png" style="width: 800px"><figcaption>Source: Wickham and Grolemund, [_R for Data Science_](http://r4ds.had.co.nz/introduction.html)</figcaption>
+
+
+---
+
+## Data science
+
+Emerging (and highly-paid) field that includes: 
+
+* Data exploration, preparation, and visualization
+
+* Statistical modeling and machine learning
+
+* Software development and engineering
+
+* Practical business and/or domain expertise
+
+---
+class: middle, center, inverse
+
+## Sports analytics
+
+---
+class: middle, center, inverse
+
+## Discussion: how might you use data in the sports domain?  
+
+---
+
+## History of sports statistics
+
+<img src="https://onsports.files.wordpress.com/2007/10/agate_sample.jpg" style="width: 550px">
+
+.footnote[Source: [onsports.wordpress.com](https://onsports.wordpress.com/2007/10/10/agate-is-essential-to-covering-sports/)]
+
+---
+
+## Analytics in sport
+
+<img src="https://www.sporttechie.com/wp-content/uploads/2018/05/GettyImages-481506998-e1526657260275.jpg" style="width: 600px">
+
+.footnote[Source: [SportTechie.com](https://www.sporttechie.com/fifa-will-provide-teams-with-in-match-tracking-video-during-world-cup-soccer-football/)]
+
+---
+
+## Analytics in sport
+
+<img src="http://www.jumpforward.com/wp-content/uploads/2013/12/analytics-development.jpg" style="width: 450px">
+
+.footnote[Source: [JumpForward](http://www.jumpforward.com/predictive-analytics-college-athletic-departments/)]
+
+---
+class: middle, center, inverse
+
+## Case study: Sabermetrics and baseball
+
+---
+
+## Sabermetrics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMObWsKaIls?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Bill James
+
+<img src="http://worldseriesdreaming.com/wp-content/uploads/2013/03/bill-james-0790060781.jpg" style="width: 550px">
+
+.footnote[Source: [worldseriesdreaming.com](http://worldseriesdreaming.com/tag/bill-james/)]
+
+---
+
+## Wins above replacement (WAR)
+
+* Composite metric that measures __the number of additional wins a player is worth__ relative to an average player at that position
+
+* [2018 WAR data: ESPN.com](http://www.espn.com/mlb/war/leaders)
+
+---
+
+## Weighted on-base average (wOBA)
+
+* Batting average: how frequently a batter gets a hit
+
+* On-base percentage (OBP): how often a batter reaches base
+
+* wOBA: different weights applied to different on-base appearances based on _value_
+
+---
+
+## Defense-independent pitching statistics (DIPS)
+
+* __Earned run average__ (ERA): earned runs per nine innings pitched
+
+* __DIPS__: focus on statistics _specific to the pitcher_
+
+* Example: fielding-independent pitching (FIP)
+
+---
+
+## The landscape of baseball analytics
+
+Theo Epstein ([source](http://www.chicagotribune.com/sports/baseball/cubs/ct-spt-cubs-theo-epstein-analytics-20180327-story.html)): 
+
+> There's no doubt the landscape is a lot flatter now... Most organizations are operating basically with the same data streams, same numbers.
+
+> So if everyone has the same information, you want to put a premium on a humanistic approach understanding people... Putting them in a position to succeed and supporting them as human beings and individuals and the chemistry of the group as a whole.
+
+---
+class: middle, center, inverse
+
+## Discussion: the value of data and analytics in baseball
+
+---
+class: middle, center, inverse
+
+## Probability and statistics
+
+---
+
+## Probability
+
+* **Probability**: the likelihood of the occurrence of an event
+
+* **Statistical significance**: the probability that an observation/effect is not the result of random chance
+---
+
+## Frequentist statistics
+
+* What is the mathematical relationship between an outcome variable $Y$ and one or more other "predictor" variables $X_{1}...X_{n}$?
+
+The linear model: 
+
+$$ Y = Xb + e $$
+
+where $Y$ represents the outcome variable, $X$ is a matrix of predictors, $b$ represents the "parameters", and $e$ represents the errors, or "residuals"
+
+---
+
+## The normal distribution
+
+```{r simple-plot, fig.height=5, fig.width=7, fig.align='center', message=FALSE, echo=FALSE}
+
+set.seed(1234)
+df <- data.frame(cond = factor( rep(c("A","B"), each=200) ), 
+                   values = c(rnorm(200),rnorm(200, mean=.8)))
+
+library(ggplot2)
+
+ggplot(df, aes(x=values)) + 
+    geom_histogram(aes(y=..density..),      # Histogram with density instead of count on y-axis
+                   binwidth=.5,
+                   colour="black", fill="white") +
+    geom_density(alpha=.2, fill="#FF6666")
+
+```
+
+---
+
+## Bayesian statistics
+
+* Given our _prior beliefs_ about a mathematical relationship, what is the probability of an event occurring?  
+
+<img src="https://www.analyticsvidhya.com/wp-content/uploads/2016/06/12-768x475.jpg" style="width: 600px">
+
+.footnote[Source: [AnalyticsVidhya.com](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)]
+
+---
+
+## Machine learning and predictive modeling
+
+* The use of statistical modeling to _make predictions_ about future behavior
+
+Example: [Amazon recommendations](https://www.theonion.com/amazon-com-recommendations-understand-area-woman-better-1819568885)
+
+---
+
+## Probability and football
+
+<img src="https://fivethirtyeight.com/wp-content/uploads/2015/01/morris-feature-riddles-3.png" style="width: 500px">
+
+.footnote[Source: [FiveThirtyEight](https://fivethirtyeight.com/features/kickers-are-forever/)]
+
+---
+
+## Probability and football
+
+* Example: [New York Times 4th Down Bot](http://nyt4thdownbot.com/team/cowboys)
+
+---
+
+## Probability and football
+
+<img src="https://fivethirtyeight.com/wp-content/uploads/2015/01/morris-feature-riddles-6.png" style="width: 500px">
+
+.footnote[Source: [FiveThirtyEight](https://fivethirtyeight.com/features/kickers-are-forever/)]
+
+---
+
+## "The team that never punts"
+
+<iframe width="640" height="360" src="http://www.espn.com/core/video/iframe?id=14428567&endcard=false" allowfullscreen frameborder="0"></iframe>
+
+---
+
+## The 2017-2018 Eagles
+
+<img src="https://pmcdeadline2.files.wordpress.com/2018/02/super-bowl-2018-eagles-win.jpg" style="width: 600px">
+
+.footnote[Source: [deadline.com](http://deadline.com/2018/02/super-bowl-ratings-eagles-patriots-this-is-us-nbc-1202278181/)]
+
+---
+
+## The Eagles and 4th-down conversions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDG3_ewrOWg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## 4th-down conversions in the NFL
+
+* [Statistics: ESPN.com](http://www.espn.com/nfl/statistics/team/_/stat/downs)
+
+---
+
+class: middle, center, inverse
+
+## Next up: Sports analytics II
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

@@ -1,0 +1,243 @@
+---
+title: "Sports analytics II"
+subtitle: ""
+date: "May 30, 2018"
+author: "GEOG 30793"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Today's agenda
+
+* "Big data" and streaming data
+
+* In-game tracking and streaming data in sport
+
+* Analytics in basketball
+
+* Case study: NBA shot charts
+
+* Player movement analytics and "heat mapping"
+
+* Case study: tennis analytics with heat maps
+
+---
+class: middle, center, inverse
+
+## "Big data" 
+
+<iframe width="100%" height="600px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/enf.c3a2de35.html?access_token=pk.eyJ1IjoiZW5mIiwiYSI6IkNJek92bnMifQ.xn2_Uj9RkYTGRuCGg4DXZQ"></iframe><figcaption>Map by Eric Fischer, Mapbox</figcaption>
+
+---
+
+## "Big data" 
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/avP5d16wEp0" frameborder="0" allowfullscreen></iframe>
+
+
+---
+
+## Big data architecture
+
+<img src="http://www-01.ibm.com/software/ebusiness/jstart/graphics/hadoopDiagram.png" style="width: 600px">
+
+---
+
+## Big data and the cloud
+
+<img src="https://bsdmag.org/wp-content/uploads/2016/02/amazons3EC2_sql_backup.png" style="width: 800px">
+
+.footnote[Source: [BSD Magazine](https://bsdmag.org/neybsd_aws/)]
+
+---
+
+## Streaming data
+
+<img src="https://images.techhive.com/images/article/2015/03/wide_data-100573166-large.jpg" style="width: 650px">
+
+.footnote[Source: [InfoWorld](https://www.infoworld.com/article/2948952/big-data/streaming-analytics-enter-the-fast-lane.html)]
+
+---
+
+class: middle, center, inverse
+
+## In-game tracking and streaming data in sports
+
+---
+
+## In-game tracking
+
+<img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/CEF5/production/_97018925_origin2.jpg" style="width: 700px">
+
+.footnote[Source: [BBC](http://www.bbc.com/news/business-40636746)]
+
+---
+
+## In-game tracking
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avVMb_FZmZI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Streaming data in sports
+
+{discussion of applications}
+
+---
+
+## Streaming data in sports
+
+{perhaps a video here}
+
+---
+class: middle, center, inverse
+
+## Analytics in basketball
+
+---
+
+## Analytics in basketball
+
+{discussion/examples}
+
+---
+
+## Analytics in basketball
+
+<iframe src="http://vplayer.nbcsports.com/p/BxmELC/newengland_embed/select/media/e4CxIzmuaPXy" width="624" height="351" frameborder="0" allowfullscreen>Your browser does not support iframes.</iframe>
+
+---
+class: middle, center, inverse
+
+## Case study: basketball shot charts
+
+---
+
+## Kirk Goldsberry
+
+{discussion}
+
+---
+
+## Application programming interfaces (APIs)
+
+{describe}
+
+---
+
+## The NBA stats API
+
+{show examples}
+
+---
+
+## Basketball shot charts
+
+{examples}
+
+---
+
+## Applications of shot charts
+
+{examples}
+
+---
+
+## Applications of shot charts
+
+{video}
+
+---
+class: middle, center, inverse
+
+## Player movement analytics
+
+---
+
+## Player movement analytics
+
+{discussion}
+
+---
+
+## "Heat" maps
+
+{discussion}
+
+---
+
+## Player "heat" maps
+
+{give an example}
+
+---
+class: middle, center, inverse
+
+## Case study: Game tracking and tennis analytics
+
+---
+
+## Tennis analytics
+
+{discuss the slow adoption in the sport}
+
+---
+
+## Tennis analytics
+
+{examples}
+
+---
+
+## Tennis analytics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBbUyUC01Ds?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+class: middle, center, inverse
+
+## Next up: Sports data visualization and sports data journalism
+
+
+
+
+
+
+
+
+
+<style>
+
+body {
+  font-family: Verdana; 
+}
+
+h1, h2, h3 {
+  color: #840000; 
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+a {
+  color: #ff0000; 
+}
+
+.inverse {
+  background-color: #840000; 
+
+}
+</style>
+
+
+
+
+
+
+

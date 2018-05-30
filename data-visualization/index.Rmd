@@ -116,7 +116,7 @@ class: middle, center, inverse
 
 ## Visual variables
 
-<img src=img/vv.png style="width: 900px"><figcaption>Source: _Data Points_</figcaption>
+<img src=img/vv.PNG style="width: 900px"><figcaption>Source: _Data Points_</figcaption>
 
 ---
 
@@ -134,7 +134,7 @@ class: middle, center, inverse
 
 ## Color and data visualization
 
-<img src=img/schemes.png><figcaption>Source: _Data Points_</figcaption>
+<img src=img/schemes.PNG><figcaption>Source: _Data Points_</figcaption>
 
 ---
 
@@ -146,7 +146,7 @@ class: middle, center, inverse
 
 ## Highlighting and annotation
 
-<img src=img/hotdog.png style="width: 600px"><figcaption>Source: _Data Points_</figcaption>
+<img src=img/hotdog.PNG style="width: 600px"><figcaption>Source: _Data Points_</figcaption>
 
 ---
 class: middle, center, inverse

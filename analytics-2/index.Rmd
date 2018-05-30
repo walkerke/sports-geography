@@ -94,7 +94,7 @@ class: middle, center, inverse
 
 ## Analytics in basketball
 
-<iframe src="http://vplayer.nbcsports.com/p/BxmELC/newengland_embed/select/media/e4CxIzmuaPXy" width="624" height="351" frameborder="0" allowfullscreen>Your browser does not support iframes.</iframe>
+<iframe src="https://vplayer.nbcsports.com/p/BxmELC/newengland_embed/select/media/e4CxIzmuaPXy" width="624" height="351" frameborder="0" allowfullscreen>Your browser does not support iframes.</iframe>
 
 ---
 

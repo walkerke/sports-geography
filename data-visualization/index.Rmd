@@ -23,9 +23,7 @@ options(htmltools.dir.version = FALSE)
 
 * Examples: interactive visualization applications for sports
 
-* Data journalism and sport
-
-* Examples: data visualization and sports data journalism
+* Data journalism and sports data visualization
 
 ---
 class: middle, center, inverse
@@ -44,7 +42,13 @@ class: middle, center, inverse
 
 ## Data visualization
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg" style="width: 750px"><figcaption>Source: Wikimedia Commons</figcaption>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Data visualization
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg" style="width: 650px"><figcaption>Source: Wikimedia Commons</figcaption>
 
 ---
 
@@ -57,20 +61,22 @@ class: middle, center, inverse
 ## Bar charts
 
 * __Length__ or __height__ of bars proportional to data values, allowing for comparisons between categories
+
 * The value axis of bar charts _must start at zero_!!!
+
 * Recommendation: sort your data values for ease of interpretation
 
 ---
 
 ## Line charts
 
-<img src="https://espnfivethirtyeight.files.wordpress.com/2014/10/casselman-feature-dropout-2.png?w=610&h=475" style="width: 700px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/u-s-high-school-dropout-rates-fall-especially-among-latinos/)</figcaption>
+<img src="https://espnfivethirtyeight.files.wordpress.com/2014/10/casselman-feature-dropout-2.png?w=610&h=475" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/u-s-high-school-dropout-rates-fall-especially-among-latinos/)</figcaption>
 
 ---
 
 ## Scatter plots
 
-<img src="https://espnfivethirtyeight.files.wordpress.com/2014/11/morris-feature-moss-wowy1.png?w=610&h=626" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/randy-moss-may-well-have-been-the-greatest-receiver-of-all-time/)</figcaption>
+<img src="https://espnfivethirtyeight.files.wordpress.com/2014/11/morris-feature-moss-wowy1.png?w=610&h=626" style="width: 400px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/randy-moss-may-well-have-been-the-greatest-receiver-of-all-time/)</figcaption>
 
 ---
 class: middle, center, inverse
@@ -79,21 +85,27 @@ class: middle, center, inverse
 
 ---
 
-## Example 1
+## Strike zones
 
-{give example}
+<img src="https://i0.wp.com/flowingdata.com/wp-content/uploads/2018/04/Umpire-strike-zone-calls-e1524154465644.png" style="width: 550px">
 
----
-
-## Example 2
-
-{give example}
+.footnote[Source: [FiveThirtyEight](https://fivethirtyeight.com/features/everyone-wants-to-go-home-during-extra-innings-maybe-even-the-umps/)]
 
 ---
 
-## Example 3
+## Tennis rankings
 
-{give example}
+<img src="img/rankings.PNG" style="width: 800px">
+
+.footnote[Source: [SRF.ch](https://www.srf.ch/static/srf-data/data/2018/federer/#/en)]
+
+---
+
+## Team progress
+
+<img src="img/steps.PNG" style="width: 375px">
+
+.footnote[Source: [FlowingData](https://flowingdata.com/2017/06/13/the-warriors-championship-path/)]
 
 ---
 class: middle, center, inverse
@@ -106,7 +118,6 @@ class: middle, center, inverse
 
 <img src=img/vv.png style="width: 900px"><figcaption>Source: _Data Points_</figcaption>
 
-
 ---
 
 ## Color
@@ -115,7 +126,9 @@ class: middle, center, inverse
 * Lightness or Value: extent to which color is light or dark
 * Saturation: vividness of the color
 
-<img src="https://dl.dropboxusercontent.com/u/128822645/introgis/cartography/assets/img/color1.png" style="width: 400px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HSV_color_solid_cylinder_alpha_lowgamma.png/1280px-HSV_color_solid_cylinder_alpha_lowgamma.png" style="width: 400px">
+
+.footnote[Source: Wikimedia Commons]
 
 ---
 
@@ -125,15 +138,25 @@ class: middle, center, inverse
 
 ---
 
-## Color and sports data visualization
+## Color-blindness
 
-{example}
+<img src="https://pbs.twimg.com/media/BaSY069CYAAlHXY.jpg" style="width: 550px"><figcaption>SBNation.com</figcaption>
 
 ---
 
-## Color-blindness
+## Highlighting and annotation
 
-<img src="https://pbs.twimg.com/media/BaSY069CYAAlHXY.jpg" style="width: 700px"><figcaption>SBNation.com</figcaption>
+<img src=img/hotdog.png style="width: 600px"><figcaption>Source: _Data Points_</figcaption>
+
+---
+class: middle, center, inverse
+
+## Review: visual cues and sports data visualization
+
+---
+class: middle, center, inverse
+
+## Interactive data visualization
 
 ---
 
@@ -149,81 +172,60 @@ class: middle, center, inverse
 
 ---
 
-## Benefits and drawbacks of interactivity
+## Interactive graphics in sports
 
-{discuss}
+Examples: 
 
----
-class: middle, center, inverse
+* [Redrafted: Twenty years of the NBA - The Pudding](https://pudding.cool/2017/03/redraft/)
 
-## Examples: interactive sports data visualization
-
----
-
-## Example 1
-
-{example}
-
----
-
-## Example 2
-
-{example}
+* [The complete history of the NBA - FiveThirtyEight](https://projects.fivethirtyeight.com/complete-history-of-the-nba/#warriors)
 
 ---
 class: middle, center, inverse
 
-## Data journalism and sport
+## Discussion: benefits and drawbacks of interactivity
+
+---
+class: middle, center, inverse
+
+## Data journalism and sports data visualization
 
 ---
 
 ## Data journalism
 
-{examples}
+* Use of __data__ and __visualization__ to supplement - or as central focus of - journalistic output
+
+Examples: 
+
+* [The Upshot/New York Times](https://www.nytimes.com/section/upshot)
+
+* [FiveThirtyEight](http://fivethirtyeight.com/)
+
+* [ProPublica](https://www.propublica.org/)
 
 ---
 
-## Data journalism and sport
+## Data journalism and sports visualization
 
-{examples}
-
----
-
-## Data journalism and sport
-
-{more examples}
+<iframe src="https://embed.theguardian.com/embed/video/news/datablog/video/2013/apr/04/data-journalism-olympics-medal-video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-## Data journalism and sport
+## Data journalism and sports visualization
 
-{perhaps a video if you can find one}
+Examples: 
 
----
-class: middle, center, inverse
+* [Where Athletes in Professional Sports Come From - The Upshot](https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html)
 
-## Data visualization and sports data journalism
-
----
-
-## Example 1
-
-{example 1}
-
----
-
-## Example 2
-
-{example 2}
+* [Who's the best Formula One driver of all time? - FiveThirtyEight](https://fivethirtyeight.com/features/formula-one-racing/)
 
 ---
 class: middle, center, inverse
 
 ## Discussion: the value of data visualization in journalism
 
----
 
-## Next up
 
 
 

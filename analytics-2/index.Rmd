@@ -17,8 +17,6 @@ options(htmltools.dir.version = FALSE)
 
 * "Big data" and streaming data
 
-* In-game tracking and streaming data in sport
-
 * Analytics in basketball
 
 * Case study: NBA shot charts
@@ -28,17 +26,16 @@ options(htmltools.dir.version = FALSE)
 * Case study: tennis analytics with heat maps
 
 ---
-class: middle, center, inverse
 
 ## "Big data" 
 
-<iframe width="100%" height="600px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/enf.c3a2de35.html?access_token=pk.eyJ1IjoiZW5mIiwiYSI6IkNJek92bnMifQ.xn2_Uj9RkYTGRuCGg4DXZQ"></iframe><figcaption>Map by Eric Fischer, Mapbox</figcaption>
+<iframe width="100%" height="450px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/enf.c3a2de35.html?access_token=pk.eyJ1IjoiZW5mIiwiYSI6IkNJek92bnMifQ.xn2_Uj9RkYTGRuCGg4DXZQ"></iframe><figcaption>Map by Eric Fischer, Mapbox</figcaption>
 
 ---
 
 ## "Big data" 
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/avP5d16wEp0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/avP5d16wEp0" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -65,12 +62,6 @@ class: middle, center, inverse
 
 ---
 
-class: middle, center, inverse
-
-## In-game tracking and streaming data in sports
-
----
-
 ## In-game tracking
 
 <img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/CEF5/production/_97018925_origin2.jpg" style="width: 700px">
@@ -84,18 +75,6 @@ class: middle, center, inverse
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avVMb_FZmZI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
-
-## Streaming data in sports
-
-{discussion of applications}
-
----
-
-## Streaming data in sports
-
-{perhaps a video here}
-
----
 class: middle, center, inverse
 
 ## Analytics in basketball
@@ -104,7 +83,12 @@ class: middle, center, inverse
 
 ## Analytics in basketball
 
-{discussion/examples}
+* Adam Silver, NBA commissioner ([source](http://knowledge.wharton.upenn.edu/article/nbas-adam-silver-analytics-transforming-basketball/)): 
+
+> Analytics are part and parcel of virtually everything we do now.  
+
+* Applications: in-game analytics, scouting, rest analytics, business analytics
+
 
 ---
 
@@ -113,45 +97,67 @@ class: middle, center, inverse
 <iframe src="http://vplayer.nbcsports.com/p/BxmELC/newengland_embed/select/media/e4CxIzmuaPXy" width="624" height="351" frameborder="0" allowfullscreen>Your browser does not support iframes.</iframe>
 
 ---
+
+## Analytics in basketball
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZf9NFaCQHQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Discussion: analytics in basketball
+
+---
+
+## Analytics in basketball: the "hot hand"
+
+<iframe src="https://giphy.com/embed/AGi1NTmrNu4py" width="480" height="235" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nba-finals-AGi1NTmrNu4py">via GIPHY</a></p>
+
+---
+
 class: middle, center, inverse
 
 ## Case study: basketball shot charts
 
 ---
 
-## Kirk Goldsberry
-
-{discussion}
-
----
-
 ## Application programming interfaces (APIs)
 
-{describe}
+* API (general definition): the way in which you can access a particular software application programmatically
+
+* __Data API__: interface that allows you to access data programmatically
+    * Often: requests are made via URL; interact with data via URL parameters
 
 ---
 
 ## The NBA stats API
 
-{show examples}
+* (Largely) undocumented interface to the NBA's stats catalog
+
+* Example URL (Karl-Anthony Towns): http://stats.nba.com/stats/playergamelog/?PlayerId=1626157
+&Season=2017-18&SeasonType=Regular+Season&LeagueId=00
 
 ---
 
 ## Basketball shot charts
 
-{examples}
+<img src="http://a.espncdn.com/photo/2013/0606/grant_r_ShaneBattier_ShotChart.jpg" style="width: 600px">
+
+.footnote[Source: ESPN.com/Grantland/Kirk Goldsberry]
 
 ---
 
 ## Applications of shot charts
 
-{examples}
+<img src="https://espngrantland.files.wordpress.com/2015/02/jameshardenfixed1152.jpg" style="width: 550px">
+
+.footnote[Source: [Grantland/Kirk Goldsberry](http://grantland.com/features/department-of-defense/)]
 
 ---
 
 ## Applications of shot charts
 
-{video}
+<script async src="//player-backend.cnevids.com/script/video/546a4d2f61646d083a140000.js?iu=/3379/conde.wired/partner"></script>
 
 ---
 class: middle, center, inverse
@@ -162,19 +168,25 @@ class: middle, center, inverse
 
 ## Player movement analytics
 
-{discussion}
+<img src="img/nba.gif" style="width: 700px">
+
+.footnote[Source: [James Curley, UT Austin](http://curleylab.psych.columbia.edu/nba.html)]
 
 ---
 
 ## "Heat" maps
 
-{discussion}
+<img src="https://technical.ly/philly/wp-content/uploads/sites/2/2012/11/philly_pd.jpg" style="width: 650px">
+
+.footnote[Source: [Technical.ly](https://technical.ly/philly/2012/11/20/philadelphia-police-gis-new-system-crime-tracking/)]
 
 ---
 
 ## Player "heat" maps
 
-{give an example}
+<img src="img/walker.png" style="width: 550px">
+
+.footnote[Source: [Daily Mail](http://www.dailymail.co.uk/sport/football/premier-league/fixtures.html#s2017-m919164)]
 
 ---
 class: middle, center, inverse
@@ -185,13 +197,9 @@ class: middle, center, inverse
 
 ## Tennis analytics
 
-{discuss the slow adoption in the sport}
+<img src="https://pulse-static-files.s3.amazonaws.com/test/HawkEye/photo/2015/06/17/278c0543-008d-4e83-b2e6-e5ca7f4c91d0/heatmap.jpg" style="width: 650px">
 
----
-
-## Tennis analytics
-
-{examples}
+.footnote[[Analytics examples from Hawkeye](https://www.hawkeyeinnovations.com/sports/tennis)]
 
 ---
 
@@ -200,7 +208,6 @@ class: middle, center, inverse
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sBbUyUC01Ds?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
-
 class: middle, center, inverse
 
 ## Next up: Sports data visualization and sports data journalism

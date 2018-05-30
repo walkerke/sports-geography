@@ -210,6 +210,11 @@ class: middle, center, inverse
 ---
 class: middle, center, inverse
 
+## Summary discussion: the value of analytics in sports
+
+---
+class: middle, center, inverse
+
 ## Next up: Sports data visualization and sports data journalism
 
 

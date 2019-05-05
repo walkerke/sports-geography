@@ -1,11 +1,11 @@
 library(nbastatR)
 library(tidyverse)
 
-teams <- get_nba_teams() %>%
+teams <- nba_teams() %>%
   filter(idConference != 0, 
          !nameTeam %in% c("team Stephen", "TEAM Lebron"))
 
-nba <- get_teams_seasons_shots(teams = teams$nameTeam)
+nba <- teams_shots(teams = teams$nameTeam)
 
 teamlist <- gsub("Los Angeles Clippers", "LA Clippers", teams$nameTeam)
 

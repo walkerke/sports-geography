@@ -4,7 +4,7 @@
     <title>Sports, place, &amp; identity</title>
     <meta charset="utf-8">
     <meta name="author" content="GEOG 30793" />
-    <meta name="date" content="2018-05-15" />
+    <meta name="date" content="2019-05-14" />
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -14,7 +14,7 @@ class: center, middle, inverse, title-slide
 
 # Sports, place, &amp; identity
 ### GEOG 30793
-### May 15, 2018
+### May 14, 2019
 
 ---
 
@@ -186,7 +186,7 @@ class: middle, center, inverse
 
 ## Football and Southern pride
 
-&lt;img src="https://espngrantland.files.wordpress.com/2011/09/grant_g_sec_fan_57611.jpg" style="width: 650px"&gt;
+&lt;img src="https://grantland.com/wp-content/uploads/2011/09/grant_g_sec_fan_57611.jpg?w=1003" style="width: 650px"&gt;
 
 .footnote[Source: [Grantland](http://grantland.com/features/s-e-c-s-e-c-s-e-c/)]
 
@@ -294,19 +294,30 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   d.head.appendChild(s);
 })();</script>
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
   }
-});
+})();
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);

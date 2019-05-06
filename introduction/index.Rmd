@@ -1,7 +1,7 @@
 ---
 title: "Sports, Geography, & Society"
 subtitle: ""
-date: "May 14, 2018"
+date: "May 13, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -65,9 +65,9 @@ class: center, middle, inverse
 
 ## Sports
 
-<img src="https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/aa/5aa8a110-49b3-11e8-863f-e7bb1fbcfae9/5ae27143210f8.image.jpg?resize=1200%2C768" style="width: 550px">
+<img src="https://cdn.newsday.com/polopoly_fs/1.30256502.1556247780!/httpImage/image.jpg_gen/derivatives/landscape_768/image.jpg" style="width: 700px">
 
-.footnote[Source: [Tulsa World](http://www.tulsaworld.com/nfl-draft-ou-s-baker-mayfield-goes-no-overall-to/article_544187b8-49ab-11e8-9d21-0b575f0ef385.html)]
+.footnote[Source: [Newsday](https://www.newsday.com/sports/football/kyler-murray-nfl-draft-cardinals-1.30255800)]
 
 ---
 
@@ -213,9 +213,9 @@ class: middle, center, inverse
 
 ## Sports data visualization
 
-<img src="https://espngrantland.files.wordpress.com/2013/06/grant_r_lebron_shotchart11.jpg" style="width: 575px">
+<img src="https://pbs.twimg.com/media/D5FK1UjU4AASZkQ.jpg:large" style="width: 575px">
 
-.footnote[Source: [Kirk Goldsberry/Grantland](http://grantland.com/the-triangle/courtvision-how-the-heat-and-spurs-score/)]
+.footnote[Source: Kirk Goldsberry]
 
 ---
 class: middle, center, inverse

@@ -4,7 +4,7 @@
     <title>Sports, gender, &amp; sexuality</title>
     <meta charset="utf-8">
     <meta name="author" content="GEOG 30793" />
-    <meta name="date" content="2018-05-18" />
+    <meta name="date" content="2019-05-17" />
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -14,7 +14,7 @@ class: center, middle, inverse, title-slide
 
 # Sports, gender, &amp; sexuality
 ### GEOG 30793
-### May 18, 2018
+### May 17, 2019
 
 ---
 
@@ -136,9 +136,18 @@ class: middle, center, inverse
 
 ## Homosexuality in sport
 
-* [Video: Adam Rippon and Gus Kenworthy at the 2018 Winter Olympics](http://www.nbcolympics.com/video/rippon-kenworthy-discuss-experience-openly-gay-olympians)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jtHvw6v4-5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 ---
+
+## Gender, biology, and sport
+
+&lt;img src="https://static01.nyt.com/images/2019/05/01/sports/01xp-semenyabio1/01xp-semenyabio-articleLarge.jpg" style="width: 700px"&gt;
+
+.footnote[Source: The New York Times]
+
+---
+
 class: middle, center, inverse
 
 ## Discussion: why is the transgression of gender roles a debated issue in sports?  
@@ -192,7 +201,7 @@ class: middle, center, inverse
 
 ## NWSL attendance
 
-&lt;img src=img/attendance.PNG style="width: 500px"&gt;
+&lt;img src=img/attendance.PNG style="width: 375px"&gt;
 
 .footnote[Source: [Soccer Stadium Digest](https://soccerstadiumdigest.com/2017-nwsl-attendance/)]
 
@@ -216,9 +225,9 @@ class: middle, center, inverse
 
 ## Islam and women's athletic competition
 
-&lt;img src="https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2012/08/08/BostonGlobe.com/Sports/Images/512960837.jpg" style="width: 600px"&gt;
+&lt;img src="https://imgix.bustle.com/lovelace/getty/149969820.jpg" style="width: 600px"&gt;
 
-.footnote[Source: [The Boston Globe](https://www.bostonglobe.com/sports/2012/08/08/for-female-muslim-olympians-progress-slow/QB7Pcgpuu7hcPmwB3bzAXL/story.html)]
+.footnote[Source: AFP/Getty Images]
 
 ---
 
@@ -292,19 +301,30 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   d.head.appendChild(s);
 })();</script>
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
   }
-});
+})();
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);

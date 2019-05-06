@@ -1,7 +1,7 @@
 ---
 title: "Sports & nationalism"
 subtitle: ""
-date: "May 16, 2018"
+date: "May 15, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -34,7 +34,7 @@ class: middle, center, inverse
 
 ## The "nation" 
 
-<img src="https://www.interiordecorating.com/images/products/1732-17106_z.jpg" style="width: 650px">
+<img src="img/beaver_nation.PNG" style="width: 650px">
 
 .footnote[Source: [InteriorDecorating.com](https://www.interiordecorating.com/429236-1156-Oregon-State-Beaver-Nation-Starter-Rug-20x30)]
 

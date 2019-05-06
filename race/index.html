@@ -4,7 +4,7 @@
     <title>Sports &amp; race</title>
     <meta charset="utf-8">
     <meta name="author" content="GEOG 30793" />
-    <meta name="date" content="2018-05-17" />
+    <meta name="date" content="2019-05-16" />
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -14,7 +14,7 @@ class: center, middle, inverse, title-slide
 
 # Sports &amp; race
 ### GEOG 30793
-### May 17, 2018
+### May 16, 2019
 
 ---
 
@@ -50,7 +50,7 @@ class: middle, center, inverse
 
 ## Race in global context
 
-* Comparative racial categories around the world: http://www.understandingrace.org/lived/global_census.html
+* Comparative racial categories around the world: http://www.understandingrace.org
 
 ---
 class: middle, center, inverse
@@ -150,9 +150,17 @@ class: middle, center, inverse
 
 ## _Les Bleus_ - _black, blanc, et beur_
 
-&lt;img src="http://cdn2-europe1.new2.ladmedia.fr/var/europe1/storage/images/europe1/sport/pires-retraite-coup-de-sifflet-final-pour-france-98-2677306/25898023-1-fre-FR/Pires-retraite-coup-de-sifflet-final-pour-France-98.jpg" style="width: 700px"&gt;
+&lt;img src="https://www.thebruneian.news/wp-content/uploads/2018/07/2018-07-10T180149Z_1934414451_RC1694A28320_RTRMADP_3_SOCCER-WORLDCUP-FRA-BEL.jpg" style="width: 650px"&gt;
 
-.footnote[Source: [Europe 1](http://www.europe1.fr/sport/pires-retraite-coup-de-sifflet-final-pour-france-98-2677306)]
+.footnote[Source: Reuters]
+
+---
+
+## Race and "The Greek Freak"
+
+&lt;img src="https://static01.nyt.com/images/2019/05/03/sports/03giannis7/merlin_153103536_a8dd788d-45e7-4095-aabf-72743842ea11-superJumbo.jpg" style="width: 600px"&gt;
+
+.footnote[Source: [The New York Times](https://www.nytimes.com/2019/05/03/sports/giannis-antetokounmpo-greece.html)]
 
 ---
 class: middle, center, inverse
@@ -177,9 +185,9 @@ class: middle, center, inverse
 
 ## Apartheid and international sport
 
-&lt;img src="http://hist276group6.academic.wlu.edu/files/2016/04/pre-apartheid-sports.jpg" style="width: 700px"&gt;
+&lt;img src="https://sports-images.vice.com/images/articles/meta/2017/02/09/the-sports-teams-who-defied-the-apartheid-boycott-of-south-africa-1486658934.jpg" style="width: 500px"&gt;
 
-.footnote[Source: [Wilfried Laurier University](http://hist276group6.academic.wlu.edu/)]
+.footnote[Source: [Vice Sports](https://www.vice.com/en_au/article/3dgpb3/the-sports-teams-who-defied-the-apartheid-boycott-of-south-africa)]
 
 ---
 
@@ -271,19 +279,30 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   d.head.appendChild(s);
 })();</script>
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
   }
-});
+})();
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);

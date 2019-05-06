@@ -1,12 +1,19 @@
 library(tidyverse)
 
+<<<<<<< HEAD
 library(nbastatR)
 
+=======
+>>>>>>> 81499ccdd9a2f239e832c23a7bd274be71a66332
 teams <- nba_teams() %>%
   filter(idConference != 0, 
          !nameTeam %in% c("team Stephen", "TEAM Lebron"))
 
+<<<<<<< HEAD
 nba <- teams_shots(teams = teams$nameTeam, seasons = 2019)
+=======
+nba <- teams_shots(teams = teams$nameTeam)
+>>>>>>> 81499ccdd9a2f239e832c23a7bd274be71a66332
 
 teamlist <- gsub("Los Angeles Clippers", "LA Clippers", teams$nameTeam)
 

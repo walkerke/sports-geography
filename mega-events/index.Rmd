@@ -1,7 +1,7 @@
 ---
 title: "The economics & sociology of mega-events"
 subtitle: ""
-date: "May 21, 2018"
+date: "May 20, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 

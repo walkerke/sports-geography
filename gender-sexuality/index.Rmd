@@ -1,7 +1,7 @@
 ---
 title: "Sports, gender, & sexuality"
 subtitle: ""
-date: "May 18, 2018"
+date: "May 17, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -128,9 +128,18 @@ class: middle, center, inverse
 
 ## Homosexuality in sport
 
-* [Video: Adam Rippon and Gus Kenworthy at the 2018 Winter Olympics](http://www.nbcolympics.com/video/rippon-kenworthy-discuss-experience-openly-gay-olympians)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jtHvw6v4-5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
+## Gender, biology, and sport
+
+<img src="https://static01.nyt.com/images/2019/05/01/sports/01xp-semenyabio1/01xp-semenyabio-articleLarge.jpg" style="width: 700px">
+
+.footnote[Source: The New York Times]
+
+---
+
 class: middle, center, inverse
 
 ## Discussion: why is the transgression of gender roles a debated issue in sports?  
@@ -184,7 +193,7 @@ class: middle, center, inverse
 
 ## NWSL attendance
 
-<img src=img/attendance.PNG style="width: 500px">
+<img src=img/attendance.PNG style="width: 375px">
 
 .footnote[Source: [Soccer Stadium Digest](https://soccerstadiumdigest.com/2017-nwsl-attendance/)]
 
@@ -208,9 +217,9 @@ class: middle, center, inverse
 
 ## Islam and women's athletic competition
 
-<img src="https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2012/08/08/BostonGlobe.com/Sports/Images/512960837.jpg" style="width: 600px">
+<img src="https://imgix.bustle.com/lovelace/getty/149969820.jpg" style="width: 600px">
 
-.footnote[Source: [The Boston Globe](https://www.bostonglobe.com/sports/2012/08/08/for-female-muslim-olympians-progress-slow/QB7Pcgpuu7hcPmwB3bzAXL/story.html)]
+.footnote[Source: AFP/Getty Images]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Sports, place, & identity"
 subtitle: ""
-date: "May 15, 2018"
+date: "May 14, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -178,7 +178,7 @@ class: middle, center, inverse
 
 ## Football and Southern pride
 
-<img src="https://espngrantland.files.wordpress.com/2011/09/grant_g_sec_fan_57611.jpg" style="width: 650px">
+<img src="https://grantland.com/wp-content/uploads/2011/09/grant_g_sec_fan_57611.jpg?w=1003" style="width: 650px">
 
 .footnote[Source: [Grantland](http://grantland.com/features/s-e-c-s-e-c-s-e-c/)]
 

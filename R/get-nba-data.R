@@ -1,6 +1,8 @@
 library(tidyverse)
 library(nbastatR)
 
+library(nbastatR)
+
 teams <- nba_teams() %>%
   filter(idConference != 0, 
          !nameTeam %in% c("team Stephen", "TEAM Lebron"))
@@ -19,4 +21,4 @@ walk(teamlist, function(x) {
 })
 
 
-
+bucks <- read_csv("data/nba/Milwaukee Bucks.csv")

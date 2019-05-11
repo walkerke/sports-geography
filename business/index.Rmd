@@ -1,7 +1,7 @@
 ---
 title: "Sports, business, & globalization"
 subtitle: ""
-date: "May 24, 2018"
+date: "May 23, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -142,9 +142,9 @@ class: middle, center, inverse
 
 ## Globalization
 
-<img src="http://www.komputerswiat.pl/media/2017/179/5564344/facebook-2-mld-p.jpg" style="width: 800px">
+<img src="https://fee.org/media/15625/globalization.jpg?anchor=center&mode=crop&width=1920&rnd=131303472690000000" style="width: 600px">
 
-.footnote[Source: Facebook]
+.footnote[Source: Foundation for Economic Education]
 
 ---
 

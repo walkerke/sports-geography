@@ -1,7 +1,7 @@
 ---
 title: "Sports & urban development"
 subtitle: ""
-date: "May 22, 2018"
+date: "May 22, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -57,13 +57,9 @@ Key concepts:
 
 ---
 
-## Economic development and public subsidy
+## Amazon's HQ2
 
-Example: Amazon's HQ2
-
-* [Possible locations for Amazon - CNN](http://money.cnn.com/2018/01/19/technology/business/amazon-hq2-reax/index.html)
-* [Is it worth it for cities? - Fortune](http://fortune.com/2017/10/19/amazon-hq2-tax-breaks/)
-
+<iframe width=560 height=349 src=https://player.cnbc.com/p/gZWlPC/cnbc_global?playertype=synd&byGuid=7000065246 frameborder=0 scrolling=no allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen ></iframe>
 ---
 class: middle, center, inverse
 
@@ -105,9 +101,9 @@ class: middle, center, inverse
 
 ## Texas Live!
 
-<img src="http://texas-live.com/wp-content/uploads/2016/09/TL_MasterAerial_Final.jpg" style="width: 700px">
+<img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/arlington/Texas%20Live%20image_0512aabe-7a5d-4dce-854b-9a4ab752278c.jpg" style="width: 700px">
 
-.footnote[Source: [Texas Live](http://texas-live.com/)]
+.footnote[Source: Arlington Convention and Visitors Bureau]
 
 ---
 
@@ -138,7 +134,7 @@ class: middle, center, inverse
 
 ## Applications of location analytics
 
-<img src="https://carto.com/blog/img/posts/2017/2017-05-15-really-good-guide-location-intelligence-implementation/location-intelligence-header.ada251ea.png" style="width: 650px">
+<img src="https://carto.com/blog/img/posts/2017/2017-05-15-really-good-guide-location-intelligence-implementation/location-intelligence-header.png" style="width: 650px">
 
 .footnote[Source: [CARTO](https://carto.com/blog/really-good-guide-location-intelligence-implementation/)]
 

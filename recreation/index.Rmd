@@ -1,7 +1,7 @@
 ---
 title: "Cities, recreational space, and leisure activities"
 subtitle: ""
-date: "May 25, 2018"
+date: "May 24, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -34,7 +34,7 @@ class: middle, center, inverse
 
 ## Leisure in the United States
 
-<img src="https://www.bls.gov/tus/charts/chart9.jpg" style="width: 650px">
+<img src="https://www.bls.gov/tus/charts/chart9.jpg" style="width: 600px">
 
 .footnote[Source: [BLS](https://www.bls.gov/TUS/CHARTS/LEISURE.HTM)]
 

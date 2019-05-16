@@ -185,7 +185,7 @@ class: middle, center, inverse
 
 ## Apartheid and sport in South Africa
 
-<iframe src="https://www.voanews.com/embed/player/0/1809703.html?type=video" frameborder="0" scrolling="no" width="640" height="360" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCH1GiIYIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 class: middle, center, inverse

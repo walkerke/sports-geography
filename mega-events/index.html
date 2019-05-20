@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
   <head>
     <title>The economics &amp; sociology of mega-events</title>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta name="author" content="GEOG 30793" />
     <meta name="date" content="2019-05-20" />
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
@@ -170,7 +170,7 @@ class: middle, center, inverse
 
 ## The 2022 World Cup
 
-&lt;center&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Qatar_2022_bid_logo.svg/518px-Qatar_2022_bid_logo.svg.png" style="width: 300px"&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Qatar_2022_FIFA_World_Cup_bid_logo.svg/800px-Qatar_2022_FIFA_World_Cup_bid_logo.svg.png" style="width: 300px"&gt;&lt;/center&gt;
 
 .footnote[Source: Wikimedia Commons]
 
@@ -178,7 +178,7 @@ class: middle, center, inverse
 
 ## FIFA
 
-&lt;img src="http://theconsul.org/wp-content/uploads/2015/11/FIFA_Corruption_8_545x800.jpg" style="width: 600px"&gt;
+&lt;img src="https://timedotcom.files.wordpress.com/2018/06/fifa-corruption-investigration-russia-blatter-world-cup.jpg" style="width: 600px"&gt;
 
 .footnote[Source: [The Consul](http://theconsul.org/2015/11/when-a-huge-corruption-takes-place-in-a-huge-nonprofit-organization-the-2015-fifa-corruption-scandal/)]
 
@@ -194,7 +194,8 @@ class: middle, center, inverse
 
 ## World Cup infrastructure
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/n5I4FjAK6u0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zNmFgW_KWBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 ---
 
@@ -260,21 +261,63 @@ a {
 }
 &lt;/style&gt;
     </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create();
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
 });
-(function() {
-  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
   if (!r) return;
   s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
   d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
 })();</script>
 
 <script>
 (function() {
-  var i, text, code, codes = document.getElementsByTagName('code');
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
   for (i = 0; i < codes.length;) {
     code = codes[i];
     if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
@@ -288,7 +331,8 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     i++;
   }
-})();
+};
+slideshow._releaseMath(document);
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

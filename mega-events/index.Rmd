@@ -162,7 +162,7 @@ class: middle, center, inverse
 
 ## The 2022 World Cup
 
-<center><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Qatar_2022_bid_logo.svg/518px-Qatar_2022_bid_logo.svg.png" style="width: 300px"></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Qatar_2022_FIFA_World_Cup_bid_logo.svg/800px-Qatar_2022_FIFA_World_Cup_bid_logo.svg.png" style="width: 300px"></center>
 
 .footnote[Source: Wikimedia Commons]
 
@@ -170,7 +170,7 @@ class: middle, center, inverse
 
 ## FIFA
 
-<img src="http://theconsul.org/wp-content/uploads/2015/11/FIFA_Corruption_8_545x800.jpg" style="width: 600px">
+<img src="https://timedotcom.files.wordpress.com/2018/06/fifa-corruption-investigration-russia-blatter-world-cup.jpg" style="width: 600px">
 
 .footnote[Source: [The Consul](http://theconsul.org/2015/11/when-a-huge-corruption-takes-place-in-a-huge-nonprofit-organization-the-2015-fifa-corruption-scandal/)]
 
@@ -186,7 +186,8 @@ class: middle, center, inverse
 
 ## World Cup infrastructure
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n5I4FjAK6u0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zNmFgW_KWBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 

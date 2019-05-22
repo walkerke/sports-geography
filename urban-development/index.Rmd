@@ -213,11 +213,11 @@ class: middle, center, inverse
 
 ---
 
-## Team location and branding
+## NBA: suburbs to city
 
-* [Example: Brooklyn Nets' move from New Jersey](https://www.cnbc.com/video/2012/04/30/nets-ceo-explains-move-to-brooklyn.html)
+* Urban NBA moves: Nets, Kings, Pistons, Warriors
 
-* Other urban NBA moves: Kings, Pistons, Warriors
+<img src="https://i.pinimg.com/originals/57/e5/85/57e585ef3aead835bb86f5c371e29c29.jpg" style="width: 450px">
 
 ---
 

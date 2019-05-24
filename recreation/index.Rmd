@@ -42,9 +42,9 @@ class: middle, center, inverse
 
 ## Sports as leisure activity
 
-<img src="https://www.woodstockinn.com/sites/default/files/styles/flexslider_full/public/multiple_images/GolfCoupleSS_0.jpg" style="width: 800px">
+<img src="https://assets.dmagstatic.com/wp-content/uploads/media/4/dallas_private_club_country_club.jpg?cropUpAlias=wide_8-12&width=677" style="width: 600px">
 
-.footnote[Source: [Woodstock Country Club](https://www.woodstockinn.com/golf-club/course)]
+.footnote[Source: [D Magazine](https://www.dmagazine.com/publications/d-ceo/2014/november/the-most-exclusive-private-dallas-clubs/)]
 
 ---
 

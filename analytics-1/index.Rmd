@@ -1,7 +1,7 @@
 ---
 title: "Sports analytics I"
 subtitle: ""
-date: "May 29, 2018"
+date: "May 28, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -117,7 +117,7 @@ class: middle, center, inverse
 
 * Composite metric that measures __the number of additional wins a player is worth__ relative to an average player at that position
 
-* [2018 WAR data: ESPN.com](http://www.espn.com/mlb/war/leaders)
+* [2019 WAR data: ESPN.com](http://www.espn.com/mlb/war/leaders)
 
 ---
 

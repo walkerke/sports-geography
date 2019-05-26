@@ -56,7 +56,7 @@ class: middle, center, inverse
 
 ## When we exercise
 
-<img src="https://i1.wp.com/flowingdata.com/wp-content/uploads/2017/07/Sports-times-e1499836698848.png" style="width: 400px">
+<img src="https://i1.wp.com/flowingdata.com/wp-content/uploads/2017/07/Sports-times-e1499836698848.png" style="width: 350px">
 
 .footnote[Source: [Henrik Lindberg](https://flowingdata.com/2017/07/12/peak-times-for-leisure-and-sports/)]
 

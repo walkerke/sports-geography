@@ -1,7 +1,7 @@
 ---
 title: "Data visualization and sports data journalism"
 subtitle: ""
-date: "May 31, 2018"
+date: "May 30, 2019"
 author: "GEOG 30793"
 output: 
   xaringan::moon_reader: 
@@ -54,7 +54,7 @@ class: middle, center, inverse
 
 ## Bar charts
 
-<img src="https://espnfivethirtyeight.files.wordpress.com/2015/02/hickey-datalab-snl-4.png?w=610&h=478" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/datalab/who-really-had-the-best-movie-career-after-snl/)</figcaption>
+<img src="https://fivethirtyeight.com/wp-content/uploads/2015/02/hickey-datalab-snl-4.png?w=575" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/datalab/who-really-had-the-best-movie-career-after-snl/)</figcaption>
 
 ---
 
@@ -70,13 +70,13 @@ class: middle, center, inverse
 
 ## Line charts
 
-<img src="https://espnfivethirtyeight.files.wordpress.com/2014/10/casselman-feature-dropout-2.png?w=610&h=475" style="width: 600px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/u-s-high-school-dropout-rates-fall-especially-among-latinos/)</figcaption>
+<img src="https://fivethirtyeight.com/wp-content/uploads/2018/02/paine-curling-12.png" style="width: 500px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/u-s-high-school-dropout-rates-fall-especially-among-latinos/)</figcaption>
 
 ---
 
 ## Scatter plots
 
-<img src="https://espnfivethirtyeight.files.wordpress.com/2014/11/morris-feature-moss-wowy1.png?w=610&h=626" style="width: 400px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/randy-moss-may-well-have-been-the-greatest-receiver-of-all-time/)</figcaption>
+<img src="https://fivethirtyeight.com/wp-content/uploads/2014/11/morris-feature-moss-wowy1.png?w=575" style="width: 400px"><figcaption>Source: [FiveThirtyEight.com](http://fivethirtyeight.com/features/randy-moss-may-well-have-been-the-greatest-receiver-of-all-time/)</figcaption>
 
 ---
 class: middle, center, inverse
@@ -126,7 +126,7 @@ class: middle, center, inverse
 * Lightness or Value: extent to which color is light or dark
 * Saturation: vividness of the color
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HSV_color_solid_cylinder_alpha_lowgamma.png/1280px-HSV_color_solid_cylinder_alpha_lowgamma.png" style="width: 400px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HSV_color_solid_cylinder_saturation_gray.png/1280px-HSV_color_solid_cylinder_saturation_gray.png" style="width: 400px">
 
 .footnote[Source: Wikimedia Commons]
 

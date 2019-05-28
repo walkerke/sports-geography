@@ -228,7 +228,7 @@ Example: [Amazon recommendations](https://www.theonion.com/amazon-com-recommenda
 
 ## Probability and football
 
-* Example: [New York Times 4th Down Bot](http://nyt4thdownbot.com/team/cowboys)
+* Example: [New York Times 4th Down Bot](https://www.nytimes.com/interactive/projects/4thdownbot/team/cowboys)
 
 ---
 
